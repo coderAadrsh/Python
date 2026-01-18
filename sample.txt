@@ -1,0 +1,3 @@
+hello this is new line
+ and all old text deleted.
+ this is python.123
